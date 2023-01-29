@@ -57,6 +57,12 @@ form .display input {
     box-shadow: -4px -4px 15px rgba(250, 88, 88, 0.9), -6px 6px 15px rgb(255, 217, 131);
 }
 
+
+form input.func{
+    color: #ff6a6a;
+}
+
 form input.equal {
     width: 125px;
+    color: #ff6a6a;
 }
